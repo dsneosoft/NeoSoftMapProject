@@ -1,0 +1,2 @@
+rootProject.name = "NeoSoftMapProject"
+include ':app'
